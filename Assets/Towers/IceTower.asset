@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305ffbae7f5a35240a4fa94c19a26f54, type: 3}
+  m_Name: IceTower
+  m_EditorClassIdentifier: 
+  speedAttack: 20
+  damage: 5
+  damage_lvl2: 7
+  damage_lvl3: 10
+  range: 2.4
+  range_lvl2: 2.5
+  range_lvl3: 2.7
+  price: 40
+  price_lvl2: 60
+  price_lvl3: 75
+  sellprice: 35
+  sellprice_lvl2: 40
+  sellprice_lvl3: 60
+  level1: {fileID: -4812033497726612816, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  level2: {fileID: 8196403390560594189, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  level3: {fileID: 2995523678514197086, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  bulletSprite: {fileID: 0}

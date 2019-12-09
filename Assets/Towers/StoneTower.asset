@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305ffbae7f5a35240a4fa94c19a26f54, type: 3}
+  m_Name: StoneTower
+  m_EditorClassIdentifier: 
+  speedAttack: 5
+  damage: 25
+  damage_lvl2: 30
+  damage_lvl3: 40
+  range: 1.5
+  range_lvl2: 1.7
+  range_lvl3: 2
+  price: 20
+  price_lvl2: 30
+  price_lvl3: 45
+  sellprice: 15
+  sellprice_lvl2: 30
+  sellprice_lvl3: 45
+  level1: {fileID: -7269812376535988308, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  level2: {fileID: 759042843709787323, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  level3: {fileID: 3242256543997461020, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  bulletSprite: {fileID: 0}

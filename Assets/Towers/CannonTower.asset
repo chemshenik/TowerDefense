@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305ffbae7f5a35240a4fa94c19a26f54, type: 3}
+  m_Name: CannonTower
+  m_EditorClassIdentifier: 
+  speedAttack: 15
+  damage: 10
+  damage_lvl2: 15
+  damage_lvl3: 20
+  range: 2
+  range_lvl2: 2.2
+  range_lvl3: 2.5
+  price: 10
+  price_lvl2: 20
+  price_lvl3: 35
+  sellprice: 7
+  sellprice_lvl2: 20
+  sellprice_lvl3: 35
+  level1: {fileID: 6671207815571989562, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  level2: {fileID: -1991309529907811080, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  level3: {fileID: 7672929051229947046, guid: 28341bb21a22dfe4abb104f49b8a2b64, type: 3}
+  bulletSprite: {fileID: 0}
